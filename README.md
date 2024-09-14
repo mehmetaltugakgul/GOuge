@@ -4,6 +4,7 @@ GOuge is a lightweight system monitoring tool that sits in your system tray, pro
 
 ![image](https://github.com/user-attachments/assets/de209fc3-583a-475e-a710-fbc260b05083)
 
+
 ## Features
 
 - Real-time monitoring of system resources
